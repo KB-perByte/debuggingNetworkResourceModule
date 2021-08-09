@@ -42,8 +42,8 @@ Drop the below config in your launch.json
 
 ```
 {
-"version": "0.2.0",
-"configurations": [
+    "version": "0.2.0",
+    "configurations": [
         {
             "name": "Python: Attach",
             "type": "python",
