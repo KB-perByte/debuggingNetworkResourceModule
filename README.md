@@ -32,7 +32,7 @@ _Or_
 Use the following commands to the root of the collection for generating the same
 
 ```
-┌[machine@machine]-(~/.a/c/a/c/i/.vscode)
+┌[machine@machine]-(~/.a/c/a/c/i)
 └> mkdir .vscode
 ┌[machine@machine]-(~/.a/c/a/c/i/.vscode)
 └> nano launch.json
