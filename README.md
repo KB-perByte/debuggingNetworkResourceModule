@@ -92,7 +92,7 @@ Navigating to the module where debugpy import was used press F5 to start debuggi
 
 At this point, the debugger should hit your break points when in process.
 
-For debugging ansible-navigator check a cool doc ![here](https://github.com/shatakshiiii/debuggingNavigator/blob/main/README.md)
+For debugging ansible-navigator check a cool doc [here]: https://github.com/shatakshiiii/debuggingNavigator/blob/main/README.md
 
 Refer to the VS code debugging guide for more information-
 https://code.visualstudio.com/docs/editor/debugging
